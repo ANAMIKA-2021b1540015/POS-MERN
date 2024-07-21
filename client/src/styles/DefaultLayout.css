@@ -1,0 +1,50 @@
+:where(.css-dev-only-do-not-override-1rqnfsa).ant-btn .ant-btn-icon {
+    line-height: 0;
+}
+
+
+
+.ant-layout-sider {
+    background-color: rgb(73, 115, 230);
+    border-radius: 10px;
+}
+
+.ant-menu {
+    font-size: 18px !important;
+    border-radius: 10px;
+}
+
+.ant-layout {
+    position: relative;
+    background-color: white;
+    border-radius: 10px;
+    overflow: auto
+}
+
+.ant-card {
+    margin-top: 15px;
+}
+
+.ant-layout-header {
+    line-height: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: gray !important;
+    border-radius: 10px;
+    margin: 10px 10px;
+}
+
+.cart-item {
+    margin-right: 20px;
+    cursor: pointer;
+    display: flex;
+    color: aliceblue;
+    size-adjust: 100;
+}
+
+.cart-item p {
+    margin-top: 14px;
+    padding: 5px;
+    font-weight: bold !important;
+}
